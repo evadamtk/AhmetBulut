@@ -7,6 +7,8 @@ public class GitHubKullanimi {
 
         System.out.println("that`s it");
 
+        // bir de bu sekilde deneyelim..
+
 
     }
 }
